@@ -62,7 +62,8 @@ public class enc{
 						if(j == 5)
 							j = 0;
 
-				}        		
+				}     
+				// for complete details contact me @ Lokeshreddy-hacker
 
 			}
 		}
