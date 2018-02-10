@@ -1,1 +1,1 @@
-haritha eswari supraja jeevan bala hakjsfhd
+Hello all. the text in the name.txt is converted into encryption formate when the enc.java is executed. And a new encrypt.txt file is created. when dec.java is executed the text is again decrypted and the final and original text is obserbed in the decrypt.txt
